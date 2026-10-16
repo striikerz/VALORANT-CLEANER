@@ -1,5 +1,5 @@
 # VALORANT-CLEANER
-
+# FUCK VANGUARD
 Hey everyone, what's up!
 
 So, here's the deal with this VGC Cleaner – I made this little tool to give your PC a good scrub when it comes to Valorant and Vanguard traces.
